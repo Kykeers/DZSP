@@ -1,5 +1,5 @@
 # Second dseminar
-
+22.09.2023
 ## Создание веток
 *git branch branch_name - создать новую ветку*
 ## Слияние веток
