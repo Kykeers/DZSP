@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Second seminar
 22.09.2023
->>>>>>> mergin
 ## Создание веток
 *git branch branch_name - создать новую ветку*
 ## Слияние веток
