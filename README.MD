@@ -5,3 +5,6 @@
 _1 - Ctrl + S_
 _2 - git add_
 _3 - git commit -m "commit"_
+
+# В этот раз сделаю простое слияние
+Для слияния Fast-forward изпользуется команда git merge название_ветки
